@@ -29,7 +29,7 @@ https://github.com/Sivani08/ChessGame.git
 
 <h3> Demo </h3>
 
-<a href=file:///D:/projects.github/chess/index.html> Demo </a>
+<a href="file:///D:/projects.github/chess/index.html"> Demo </a>
 
 
 <br>
