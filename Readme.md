@@ -19,7 +19,7 @@
 
 - Download or clone the repository
 ```
-https://github.com/Sivani08/ChessGame.git
+https://github.com/Sivani08
 
 ```
 
