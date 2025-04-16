@@ -18,9 +18,9 @@
 ---
 
 - Download or clone the repository
-
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+https://github.com/Sivani08/ChessGame.git
+
 ```
 
 - Go to the directory
@@ -29,6 +29,6 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 
 <h3> Demo </h3>
 
-<a href="https://sonamgupta136.github.io/Chess-Game/"> Demo </a>
+<a href=https://github.com/Sivani08/ChessGame.git> Demo </a>
 
 <br>
